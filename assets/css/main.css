@@ -1,5 +1,11 @@
+#controls{
+    float: left;
+    height: 100%;
+    width: 25%;
+}
 
 #map{
+    float: right;
     height: 100%;
-    width: 100%;
+    width: 75%;
 }
